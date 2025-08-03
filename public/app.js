@@ -1,0 +1,1 @@
+// See app.js spec above. (OpenAI calls, lazy loading, SEO, etc.)
